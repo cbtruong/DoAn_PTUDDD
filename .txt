@@ -1,0 +1,3 @@
+npm install react-native-web expo --legacy-peer-deps
+npx expo install react-dom @expo/metro-runtimenpm 
+yarn add express cors body-parser mongoose multer nodemon passport passport-local
